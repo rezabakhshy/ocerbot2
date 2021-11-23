@@ -15,12 +15,12 @@ By REZA BAKHSH ZAII
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ CREATOR BOT ✨", url="https://t.me/REZABZ2")],
+        [InlineKeyboardButton("CREATOR BOT ", url="https://t.me/REZABZ2")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ CREATOR BOT ✨", url="https://t.me/REZABZ2")
+            InlineKeyboardButton("about", url="https://t.me/REZABZ2")
         ],
     ]
 
